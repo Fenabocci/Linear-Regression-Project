@@ -1,7 +1,6 @@
 # Linear-Regression-Project
 This dataset contains house sale prices for South End street, which includes Boston. It includes homes sold between July 2012 and July 2013
 
- Click here for ![Project Link](http://localhost:8888/files/Data%20Analyst-Assignment%20Answerss.ipynb?_xsrf=2%7C426e5b85%7Ca51b17ef8ca83e383c8b4c5ba7032e83%7C1727960850)
 
 #### Overview
 This repository contains a Jupyter Notebook that was created for a Analysis of House Sales in Boston. The notebook includes code, data analysis, and visualizations related to the tasks outlined in the assignment. The main focus of this notebook is to demonstrate the skills in data cleaning, exploration, and interpretation.
