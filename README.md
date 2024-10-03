@@ -1,4 +1,4 @@
-# Linear-Regression-Project
+# Linear-Regression-House Sales in Boston Project
 This dataset contains house sale prices for South End street, which includes Boston. It includes homes sold between July 2012 and July 2013
 
 
